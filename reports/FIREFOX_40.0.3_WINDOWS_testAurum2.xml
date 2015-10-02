@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="testAurum2"
+    errors="0" failures="0" hostname="" id="" package="testAurum2" skipped="0"
+    tests="1" time="0.000" timestamp="Fri, 25 Sep 2015 12:35:07 GMT">
+  
+    <testcase name="Demo test Aurum 2" time="8.015" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>
