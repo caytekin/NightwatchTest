@@ -15,7 +15,7 @@ module.exports = {
 
         client.expect.element('[class="hg-widget"]').text.to.contain('Hello World');
 
-        client.expect.element('.foo').text.to.contain('Hello World');
+        //client.expect.element('.foo').text.to.contain('Hello World');
 
         // expect element  to have attribute 'class' which contains text 'vasq'
         client.expect.element('[class="hg-widget"]').to.have.attribute('data-widgetid').which.contains('helloWorldWidget');
