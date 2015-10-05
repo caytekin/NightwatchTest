@@ -2,7 +2,7 @@
  * Created by cigdem.aytekin on 18-9-2015.
  */
 module.exports = {
-    'Demo test Google' : function (browser) {
+    'Demo test Google hoepels' : function (browser) {
         browser
             .url('http://www.google.com')
             .waitForElementVisible('body', 1000)

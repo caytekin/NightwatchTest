@@ -5,9 +5,9 @@
 
   <testsuite name="testAurum"
     errors="0" failures="0" hostname="" id="" package="testAurum" skipped="0"
-    tests="1" time="0.000" timestamp="Fri, 02 Oct 2015 11:43:28 GMT">
+    tests="1" time="0.000" timestamp="Mon, 05 Oct 2015 08:10:24 GMT">
   
-    <testcase name="Demo test Aurum" time="3.752" assertions="3">
+    <testcase name="Demo test Aurum" time="4.245" assertions="3">
 
     
 

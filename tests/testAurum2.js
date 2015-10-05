@@ -2,7 +2,7 @@
  * Created by cigdem.aytekin on 18-9-2015.
  */
 module.exports = {
-    'Demo test Aurum 2' : function (client) {
+    'Demo test Aurum 2 5 October' : function (client) {
 
         client
             .url('http://aurum.dev:9999/')
